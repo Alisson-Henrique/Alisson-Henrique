@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+## 🤔who am I? I am Alisson!🕵️
+
+A lover of systems development😍, looking to learn to improve my solutions.👨‍💻
+
+## 🌱 I’m currently learning
+I'm studying .Net Core 5 is the main interest at the moment🚀, accompanied by good architectural practices.🏯
+
+## 📫 How to reach me:
+* [LinkedIn](https://www.linkedin.com/in/alisson-henrique-38a855214/)
+* [torgatesousa@gmail.com](mailto:torgatesousa@gmail.com)
+
+
 <!--
 **Alisson-Henrique/Alisson-Henrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
